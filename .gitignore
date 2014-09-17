@@ -1,2 +1,3 @@
 /rootfs
 /docker/rootfs.tar.gz
+/.vagrant
